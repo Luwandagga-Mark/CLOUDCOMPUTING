@@ -20,4 +20,4 @@ jobs:
       with:
         dockerfile: Dockerfile
         push: true
-        tags: ubteb/cloudcomputing
+        tags: ubteb/cloudcomputing:v1
